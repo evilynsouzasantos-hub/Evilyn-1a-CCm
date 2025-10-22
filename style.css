@@ -23,6 +23,29 @@ body
       text-aling: center;
     font-size: 30px;
   }
+    
+
+
+
+nav ul{
+ list-style:one ;
+ margin: 0;
+ padding: 0;
+ display: fex;
+}
+
+   margin-left: 20px;
+   font-size:   20px;
+}  
+hearder nav ul li a{
+      color:black;
+      text-decoration: none;
+      transition: color 0.5s;
+}
+header nav ul li a:hover{
+     color: rgb(175, 34, 133);
+}
+
 
 
 
